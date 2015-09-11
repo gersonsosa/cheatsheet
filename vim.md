@@ -80,6 +80,7 @@ The :substitute command searches for a text pattern, and replaces it with a text
  * `x` delete character under cursor
  * `X` delete character before cursor
  * `d<motion>` delete, e.g. `dw` is delete word, `dd` is delete line
+ * `gg=G` to reident whole file
 
 ## Copy/Cut & Paste
 
